@@ -1,22 +1,22 @@
-# Laravel Blade Sortable
+# Laravel Blade Sortable (fork for support new laravel versions)
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/asantibanez/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/asantibanez/laravel-blade-sortable)
-[![Total Downloads](https://img.shields.io/packagist/dt/asantibanez/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/asantibanez/laravel-blade-sortable)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/bigenergy/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/bigenergy/laravel-blade-sortable)
+[![Total Downloads](https://img.shields.io/packagist/dt/bigenergy/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/bigenergy/laravel-blade-sortable)
 
-![Laravel Blade Sortable](https://laravel-og.beyondco.de/Laravel%20Blade%20Sortable.png?theme=light&packageManager=composer+require&packageName=asantibanez%2Flaravel-blade-sortable&pattern=architect&style=style_1&description=Custom+Blade+components+to+add+sortable%2Fdrag-and-drop+HTML+elements+in+your+apps&md=1&showWatermark=1&fontSize=100px&images=menu)
+![Laravel Blade Sortable](https://laravel-og.beyondco.de/Laravel%20Blade%20Sortable.png?theme=light&packageManager=composer+require&packageName=bigenergy%2Flaravel-blade-sortable&pattern=architect&style=style_1&description=Custom+Blade+components+to+add+sortable%2Fdrag-and-drop+HTML+elements+in+your+apps&md=1&showWatermark=1&fontSize=100px&images=menu)
 
 ## Demo
 
-[Repo](https://github.com/asantibanez/laravel-blade-sortable-demo)
+[Repo](https://github.com/bigenergy/laravel-blade-sortable-demo)
 
-![demo](https://github.com/asantibanez/laravel-blade-sortable/raw/master/demo.gif)
+![demo](https://github.com/bigenergy/laravel-blade-sortable/raw/master/demo.gif)
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require asantibanez/laravel-blade-sortable
+composer require bigenergy/laravel-blade-sortable
 ```
 
 After the package is installed, make sure to add `laravel-blade-sortable::scripts`
