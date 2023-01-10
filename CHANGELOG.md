@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-blade-sortable` will be documented in this file
 
+## 1.3.2 - 2023-01-10
+
+- Fixed Alpine V3 compatibility
+
+## 1.3.1 - 2022-12-23
+
+- Added laravel 9 compatibility
+
 ## 1.3.0 - 2021-04-04
 
 - Added ability to enable/disable sort and/or drop
