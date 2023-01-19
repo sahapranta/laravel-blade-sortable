@@ -1,4 +1,5 @@
-# Laravel Blade Sortable (fork for support new laravel versions)
+# Laravel Blade Sortable Updated
+<p>Fork for support new laravel versions</p>
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bigenergy/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/bigenergy/laravel-blade-sortable)
 [![Total Downloads](https://img.shields.io/packagist/dt/bigenergy/laravel-blade-sortable.svg?style=flat-square)](https://packagist.org/packages/bigenergy/laravel-blade-sortable)
@@ -7,7 +8,7 @@
 
 ## Demo
 
-[Repo](https://github.com/bigenergy/laravel-blade-sortable-demo)
+[Repo](https://github.com/asantibanez/laravel-blade-sortable-demo)
 
 ![demo](https://github.com/bigenergy/laravel-blade-sortable/raw/master/demo.gif)
 
