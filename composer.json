@@ -1,11 +1,10 @@
 {
-    "name": "bigenergy/laravel-blade-sortable",
+    "name": "sahapranta/laravel-blade-sortable",
     "description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps (support laravel 9+)",
     "keywords": [
         "asantibanez",
         "laravel-blade-sortable",
-        "bigenergy",
-        "laravel-blade-sortable-updated"
+        "sahapranta"
     ],
     "homepage": "https://github.com/asantibanez/laravel-blade-sortable",
     "license": "MIT",
@@ -19,6 +18,11 @@
         {
             "name": "Big Energy",
             "email": "bigenergyyy@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Pranta Saha",
+            "email": "pranta1204@gmail.com",
             "role": "Developer"
         }
     ],

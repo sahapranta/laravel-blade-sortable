@@ -1,4 +1,4 @@
-<script>
+<script data-navigate-once>
     const laravelBladeSortable = () => {
         return {
             name: '',
@@ -19,6 +19,7 @@
                 window.Sortable.create(this.$refs.root, {
                     handle: this.dragHandle,
                     animation: this.animation,
+                    filter: '.filter',
                     ghostClass: this.ghostClass,
                     group: {
                         name: this.group,
