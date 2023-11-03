@@ -8,7 +8,7 @@
             dragHandle: null,
             group: null,
             allowSort: true,
-            allowDrop: true,
+            allowDrop: false,
 
             wireComponent: null,
             wireOnSortOrderChange: null,
